@@ -1,12 +1,18 @@
-## HTML + CSS + JavaScript
+Student Registration Page
 
-This is a sample project to demonstrate the use of HTML, CSS and JavaScript. Start modefy the index.html, styles.css & script.js files to see the changes.
+A simple and responsive Student Registration Page built using HTML.
+This project is designed to collect student details in a clean and organized format.
 
-## How to run
+📌 Features
 
-1. Run the follwing command in your terminal:
-```bash
-live-server --no-browser
-```
+Basic HTML structure for student registration form
 
-2. Refresh the URL in simple browser to see the output
+Input fields for essential student details (Name, Email, Gender, Course, etc.)
+
+Submit and reset buttons for form handling
+
+Easy to understand and beginner-friendly code
+
+🛠️ Technologies Used
+
+HTML5 – for creating the structure of the page
